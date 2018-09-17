@@ -1,5 +1,5 @@
 {
-  "name": "podcastjs",
+  "name": "itunespodcast",
   "version": "0.1.4",
   "description": "podcast.js fetches and parses podcast RSS fields so you don't have to!",
   "keywords": [
@@ -18,11 +18,11 @@
   },
   "author": "Justin Vos",
   "bugs": {
-    "url": "https://github.com/justinvos/podcastjs/issues"
+    "url": "https://github.com/hunter829/podcastjs/issues"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/justinvos/podcastjs.git"
+    "url": "https://github.com/hunter829/podcastjs"
   },
   "license": "MIT",
   "dependencies": {

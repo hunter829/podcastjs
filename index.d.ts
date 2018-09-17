@@ -1,4 +1,4 @@
-declare module 'podcastjs'
+declare module 'itunespodcast'
 
 interface Podcast {
   title: string
